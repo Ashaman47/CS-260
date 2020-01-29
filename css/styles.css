@@ -1,0 +1,60 @@
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+	color: #841C26 !important;
+	background-color: #FFFFFA;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	color: #841C26 !important;
+}
+.navbar-brand {
+	color: #841C26 !important;
+}
+.bg-dark {
+	background-color: #841C26 !important;
+}
+.bg-light {
+	background-color: #A8F0FF !important;
+}
+.nav-link {
+	color: #841C26 !important;
+}
+body{
+	background-color:#FFFFFA;
+	text-align: center;
+}
+h1 {
+	margin-top: 50px;
+	font-size: 62px;
+	border: 2px solid #841C26;
+	color: #841C26;
+	padding: 25px;
+}
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #A8F9FF;
+	color: #841C26;
+	text-align: center;
+}
+
+img {
+	width: 100%;
+	margin: 10px;
+}
+.row{
+	width: 100%;
+	margin-top: 5px;
+}
+.col{
+	height: 100%;
+}
+
+p {
+	font-size: 18px;
+}
+.Space{
+	height: 70px;
+
+}
